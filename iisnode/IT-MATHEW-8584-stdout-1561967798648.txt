@@ -1,0 +1,4 @@
+Server runnning on Port:- \\.\pipe\1f688525-7ad9-47e1-ab71-35ffdf1fb8b2 Started at :- Mon Jul 01 2019 15:56:39 GMT+0800 (Taipei Standard Time)
+undefined
+itc-mcu
+itc-mcu
